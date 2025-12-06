@@ -30,9 +30,8 @@
 详情请见：[ELegantRL Resumes Updates; Community Alert on YangletLiu Fraud Risk - ELegantRL 将恢复更新，并提醒社区成员注意@YangletLiu (Liu xiao yang 刘小洋)的风险，避免被骗走钱款 #484](https://github.com/AI4Finance-Foundation/ElegantRL/issues/484)
 
 
-[![](https://dcbadge.vercel.app/api/server/trsr8SXpW5)](https://discord.gg/trsr8SXpW5)
-
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AI4Finance-Foundation&repo=elegantrl&countColor=%23B17A)
+[![](https://dcbadge.limes.pink/api/server/trsr8SXpW5?cb=1)](https://discord.gg/trsr8SXpW5)
 
 
 
@@ -214,6 +213,7 @@ To cite this repository:
   year={2021}
 }
 ```
+
 
 
 
